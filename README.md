@@ -5,6 +5,19 @@ http://biangua.luhui.net
 
 http://64gua.luhui.net
 
+
+
+http://8gua.luhui.net
+Domain alias
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f720bc7e-e9a6-4cf7-9be7-0a38768a6c99/deploy-status)](https://app.netlify.com/sites/bagua/deploys)
+
+
+http://bagua.netlify.app
+Default subdomain
+
+
+
 <p>
 <img src="Oviliabiangua变卦易经64卦截图_20201014073531.jpg?raw=true" alt="screen-capture.png"></p>
 
